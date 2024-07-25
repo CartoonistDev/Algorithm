@@ -1,0 +1,14 @@
+C:\AccessBox\Algorithm\Algorithm\bin\Debug\net8.0\Algorithm.exe
+C:\AccessBox\Algorithm\Algorithm\bin\Debug\net8.0\Algorithm.deps.json
+C:\AccessBox\Algorithm\Algorithm\bin\Debug\net8.0\Algorithm.runtimeconfig.json
+C:\AccessBox\Algorithm\Algorithm\bin\Debug\net8.0\Algorithm.dll
+C:\AccessBox\Algorithm\Algorithm\bin\Debug\net8.0\Algorithm.pdb
+C:\AccessBox\Algorithm\Algorithm\obj\Debug\net8.0\Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\AccessBox\Algorithm\Algorithm\obj\Debug\net8.0\Algorithm.AssemblyInfoInputs.cache
+C:\AccessBox\Algorithm\Algorithm\obj\Debug\net8.0\Algorithm.AssemblyInfo.cs
+C:\AccessBox\Algorithm\Algorithm\obj\Debug\net8.0\Algorithm.csproj.CoreCompileInputs.cache
+C:\AccessBox\Algorithm\Algorithm\obj\Debug\net8.0\Algorithm.dll
+C:\AccessBox\Algorithm\Algorithm\obj\Debug\net8.0\refint\Algorithm.dll
+C:\AccessBox\Algorithm\Algorithm\obj\Debug\net8.0\Algorithm.pdb
+C:\AccessBox\Algorithm\Algorithm\obj\Debug\net8.0\Algorithm.genruntimeconfig.cache
+C:\AccessBox\Algorithm\Algorithm\obj\Debug\net8.0\ref\Algorithm.dll
